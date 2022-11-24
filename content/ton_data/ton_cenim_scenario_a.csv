@@ -1,0 +1,13 @@
+data_train,data_valid,data_test,batches,causal
+data_train_ton_5-2-3_s10_cenim.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim_samp10_p10.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim_samp10_p20.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim_samp10_p30.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim_samp10_p40.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim_samp10_p50.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,False
+data_train_ton_5-2-3_s10_cenim.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
+data_train_ton_5-2-3_s10_cenim_samp10_p10.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
+data_train_ton_5-2-3_s10_cenim_samp10_p20.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
+data_train_ton_5-2-3_s10_cenim_samp10_p30.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
+data_train_ton_5-2-3_s10_cenim_samp10_p40.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
+data_train_ton_5-2-3_s10_cenim_samp10_p50.0_zero.csv,data_valid_ton_5-2-3_s10_cenim.csv,data_test_ton_5-2-3_s10_cenim.csv,False,True
